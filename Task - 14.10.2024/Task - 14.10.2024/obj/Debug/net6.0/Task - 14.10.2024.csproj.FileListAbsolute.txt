@@ -1,0 +1,14 @@
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\bin\Debug\net6.0\Task - 14.10.2024.exe
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\bin\Debug\net6.0\Task - 14.10.2024.deps.json
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\bin\Debug\net6.0\Task - 14.10.2024.runtimeconfig.json
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\bin\Debug\net6.0\Task - 14.10.2024.dll
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\bin\Debug\net6.0\Task - 14.10.2024.pdb
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\Task - 14.10.2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\Task - 14.10.2024.AssemblyInfoInputs.cache
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\Task - 14.10.2024.AssemblyInfo.cs
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\Task - 14.10.2024.csproj.CoreCompileInputs.cache
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\Task - 14.10.2024.dll
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\refint\Task - 14.10.2024.dll
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\Task - 14.10.2024.pdb
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\Task - 14.10.2024.genruntimeconfig.cache
+D:\CodeAcademy\Task - 14.10.2024\Task - 14.10.2024\obj\Debug\net6.0\ref\Task - 14.10.2024.dll
